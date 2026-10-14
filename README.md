@@ -91,40 +91,4 @@ VITE_SUPABASE_ANON_KEY=your_key
 npm run dev
 📈 Future Enhancements
 
-📊 AI-based personalized recommendations
 
-🧑‍🤝‍🧑 Student community & discussion forum
-
-📱 Mobile app version
-
-📌 Bookmark & progress tracking
-
-🧠 Smart search (AI-powered)
-
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repo
-
-Create a new branch
-
-Make your changes
-
-Submit a Pull Request
-
-📧 Contact
-
-For queries or collaboration:
-
-📩 Email: mr.vin004@gmail.com
-
-💼 LinkedIn:(https://www.linkedin.com/in/vinay-chauhan-b765aa251/)
-
-⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
-
-🧑‍💻 Author
-
-Vinay Chauhan
