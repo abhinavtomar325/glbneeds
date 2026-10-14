@@ -41,21 +41,4 @@ GLB Needs solves this by providing:
 
 
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/glb-needs.git
-cd glb-needs
-2️⃣ Install Dependencies
-npm install
-3️⃣ Setup Environment Variables
-
-Create a .env file and add:
-
-VITE_SUPABASE_URL=your_url
-VITE_SUPABASE_ANON_KEY=your_key
-4️⃣ Run the Project
-npm run dev
-📈 Future Enhancements
-
 
