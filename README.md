@@ -26,20 +26,7 @@ GLB Needs solves this by providing:
 
 ---
 
-## 🛠️ Tech Stack
 
-### Frontend
-- HTML / CSS / JavaScript (or React if used)
-- Responsive UI Design
-
-### Backend
-- Supabase (Authentication + Database)
-
-### Tools
-- Figma (UI/UX Design)
-- Git & GitHub (Version Control)
-
----
 
 ## 🎨 UI/UX Design
 
