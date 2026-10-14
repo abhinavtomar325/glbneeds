@@ -11,16 +11,6 @@ From notes and syllabus to previous year papers and AI assistance — everything
 
 ---
 
-## ✨ Features
-
-- 📚 **Subject-wise Notes**
-- 🎥 **Lecture Videos**
-- 📄 **Syllabus Overview**
-- 📝 **Previous Year Question Papers (PYQs)**
-- ⬇️ **Downloadable Resources**
-- 🤖 **AI Chatbot Assistant**
-- 🔐 **User Authentication (Supabase)**
-- ⚡ **Fast & Responsive UI**
 
 ---
 
