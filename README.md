@@ -62,17 +62,7 @@ GLB Needs solves this by providing:
 
 ---
 
-## 🔐 Authentication
 
-- Secure login/signup using **Supabase Auth**
-- User-specific access to resources
-
----
-
-
----
-
-## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
 
